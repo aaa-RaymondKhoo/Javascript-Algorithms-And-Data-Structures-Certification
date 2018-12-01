@@ -62,7 +62,7 @@ The variable i declared in the if statement should equal "block scope".
 checkScope() should return "function scope"
 
 
-Answer:
+ANSWER:
 function checkScope() {
 "use strict";
   let i = "function scope";
