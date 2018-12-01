@@ -10,7 +10,8 @@ As you can see, trying to reassign a variable declared with const will throw an 
 
 Change the code so that all variables are declared using let or const. Use let when you want the variable to change, and const when you want the variable to remain constant. Also, rename variables declared with const to conform to common practices, meaning constants should be in all caps.
 
-REQUIREMENT: var does not exist in your code.
+REQUIREMENT: 
+var does not exist in your code.
 SENTENCE should be a constant variable declared with const.
 i should be declared with let.
 console.log should be changed to print the SENTENCE variable.
