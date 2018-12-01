@@ -27,8 +27,12 @@ x = 3.14; // throws an error because x is not declared
 
 Update the code so it only uses the let keyword.
 
+REQUIREMENT: var does not exist in code.
+catName should be Oliver.
+quote should be "Oliver says Meow!"
 
-Answer:
+
+ANSWER:
 
 let catName;
 let quote;
