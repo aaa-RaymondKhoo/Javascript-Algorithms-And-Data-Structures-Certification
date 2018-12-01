@@ -19,7 +19,7 @@ Do not replace const keyword.
 s should be a constant variable (by using const).
 Do not change the original array declaration.
 s should be equal to [2, 5, 7].
-
+ 
 
 ANSWER:
 const s = [5, 7, 2];
