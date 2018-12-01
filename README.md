@@ -1,1 +1,12 @@
-# Javascript-Algorithms-And-Data-Structures-Certification
+# Javascript-Algorithms-And-Data-Structures-Certification (300 hours)
+In order to fulfil this certification, the projects and following courses along with their contents must be completed which involves lots of research and participation:
+1. Basic JavaScript (107)
+2. ES6 (26)
+3. Regular Expressions (32)
+4. Debugging (12)
+5. Basic Data Structures (20)
+6. Basic Algorithm Scripting (16)
+7. Object Oriented Programming (26)
+8. Functional Programming (23)
+9. Intermediate Algorithm Scripting (21)
+10. JavaScript Algorithms and Data Structures Projects (5)
