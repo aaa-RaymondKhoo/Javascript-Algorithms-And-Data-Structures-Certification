@@ -17,3 +17,6 @@ The result variable should be an array with two matches of "ss"
 
 
 ANSWER:
+let difficultSpelling = "Mississippi";
+let myRegex = /s+/gi; // Change this line
+let result = difficultSpelling.match(myRegex);
