@@ -31,4 +31,4 @@ valid import statement
 ANSWER:
 "use strict";
 capitalizeString("hello!");
-import {string_functions} from "capitalizeString"
+import {capitalizeString} from "string_functions"
