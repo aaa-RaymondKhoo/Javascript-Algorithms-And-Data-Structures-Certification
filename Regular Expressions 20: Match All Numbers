@@ -18,3 +18,6 @@ Your regex should find 4 digits in "2001: A Space Odyssey".
 
 
 ANSWER:
+let numString = "Your sandwich will be $5.00";
+let numRegex = /\d/gi; // Change this line
+let result = numString.match(numRegex).length;
