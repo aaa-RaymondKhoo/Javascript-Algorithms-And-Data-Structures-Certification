@@ -26,8 +26,7 @@ You should not use array bracket notation.
 ANSWER:
 function htmlColorNames(arr) {
   // change code below this line
-  arr.splice(htmlColorNames, 1, 'DarkSalmon');
-  arr.splice(htmlColorNames, 2, 'BlanchedAlmond');
+  arr.splice(htmlColorNames, 2, 'DarkSalmon', 'BlanchedAlmond');
   // change code above this line
   return arr;
 } 
