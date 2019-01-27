@@ -25,8 +25,8 @@ The mixedNumbers function should utilize the unshift() method
 ANSWER:
 function mixedNumbers(arr) {
   // change code below this line
-    mixedNumbers.unshift('I', 2, 'three');
-    mixedNumbers.push(7, 'VIII', 9);
+    arr.unshift('I', 2, 'three');
+    arr.push(7, 'VIII', 9);
   // change code above this line
   return arr;
 }
