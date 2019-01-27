@@ -13,6 +13,13 @@ Using bracket notation, we have now reset the item at index 1 from "b", to "not 
 
 In order to complete this challenge, set the 2nd position (index 1) of myArray to anything you want, besides "b".
 
+REQUIREMENT:
+myArray[0] is equal to "a"
+myArray[1] is no longer set to "b"
+myArray[2] is equal to "c"
+myArray[3] is equal to "d"
+
+
 ANSWER:
 let myArray = ["a", "b", "c", "d"];
 // change code below this line
