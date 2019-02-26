@@ -31,9 +31,10 @@ let user = {
 };
 
 function addFriend(user, friend) {
-  // change code below this line  
-  user.data.friends.push(friend);
-	return user;
+  // change code below this line 
+  var ar = user.data.friends;
+  ar.push(friend);
+	return ar;
   // change code above this line
 }
 
