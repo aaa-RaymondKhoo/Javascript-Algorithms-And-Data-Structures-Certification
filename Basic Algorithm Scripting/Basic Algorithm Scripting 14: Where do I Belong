@@ -44,3 +44,4 @@ function getIndexToIns(arr, num) {
 }
 
 getIndexToIns([3, 10, 5], 3);
+getIndexToIns([40, 60], 50);
